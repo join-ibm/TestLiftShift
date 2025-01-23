@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <FLOW VERSION="3.0" CLEANUP="true">
+  <COMMENT></COMMENT>
 
   <!-- nodes -->
 
@@ -589,6 +590,12 @@
 </MAPDELETE>
 
 <MAPDELETE FIELD="/selectPersonInput;2;0">
+</MAPDELETE>
+
+<MAPDELETE FIELD="/integer;3.6;0">
+</MAPDELETE>
+
+<MAPDELETE FIELD="/string;1;0">
 </MAPDELETE>
 </MAP>
 </INVOKE>
